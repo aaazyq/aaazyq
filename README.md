@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yuqing!
-- 🌱 I’m currently doing my master in data science and AI at University of Waterloo
+- 🌱 I’m currently doing my master's in data science and AI at University of Waterloo
 - 📫 How to reach me:y3593zha@uwaterloo.ca
 - ✨ My personal website: https://aaazyq.github.io/
 
